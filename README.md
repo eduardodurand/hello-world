@@ -1,4 +1,4 @@
 # hello-world
-rep
-agregando lineas
-lala
+rep.
+agregando lineas.
+lala.
